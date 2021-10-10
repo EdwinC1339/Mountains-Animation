@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../../../libs/**",
+                "${workspaceFolder}/../../../libs/openFrameworks/utils/*",
+                "C:\\msys64\\mingw32\\include\\**",
+                "C:\\msys64\\mingw32\\i686-w64-mingw32",
+                "C:/Users/eddie/Downloads/of_v0.11.2_msys2_mingw32_release/of_v0.11.2_msys2_mingw32_release/libs/openFrameworks",
+                "C:/Users/eddie/Downloads/of_v0.11.2_msys2_mingw32_release/of_v0.11.2_msys2_mingw32_release/libs/tess2/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys64\\mingw32\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
